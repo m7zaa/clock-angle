@@ -36,6 +36,7 @@ class ClockAngle
         }
         if (userInput.Length == 4)
         {
+            //userInput[] is a Char datatype. It must be converted to a string before you can int.Parse
             hour = int.Parse(userInput[0].ToString());
             min = int.Parse(userInput[2].ToString() + userInput[3].ToString());
 
@@ -55,5 +56,4 @@ class ClockAngle
         CalcAngleDifference(hour, min);
         }
     }
-
 }
