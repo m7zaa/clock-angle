@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/clock-angle/obj/Debug/netcoreapp2.2/Clock-Angle.csprojAssemblyReference.cache
+/Users/Guest/Desktop/clock-angle/obj/Debug/netcoreapp2.2/Clock-Angle.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/clock-angle/obj/Debug/netcoreapp2.2/Clock-Angle.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/clock-angle/obj/Debug/netcoreapp2.2/Clock-Angle.AssemblyInfo.cs
+/Users/Guest/Desktop/clock-angle/bin/Debug/netcoreapp2.2/Clock-Angle.deps.json
+/Users/Guest/Desktop/clock-angle/bin/Debug/netcoreapp2.2/Clock-Angle.runtimeconfig.json
+/Users/Guest/Desktop/clock-angle/bin/Debug/netcoreapp2.2/Clock-Angle.runtimeconfig.dev.json
+/Users/Guest/Desktop/clock-angle/bin/Debug/netcoreapp2.2/Clock-Angle.dll
+/Users/Guest/Desktop/clock-angle/bin/Debug/netcoreapp2.2/Clock-Angle.pdb
+/Users/Guest/Desktop/clock-angle/obj/Debug/netcoreapp2.2/Clock-Angle.dll
+/Users/Guest/Desktop/clock-angle/obj/Debug/netcoreapp2.2/Clock-Angle.pdb
