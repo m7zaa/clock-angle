@@ -19,7 +19,7 @@ _Micah Zaayer @ zaayer@protonmail.com_
 
 ## Technologies Used
 
-_C#, .Net Core MVC, Identity_
+_C#_
 
 ### License
 
